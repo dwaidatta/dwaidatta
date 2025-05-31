@@ -1,26 +1,13 @@
-<div align="center">
+# Dwaipayan Datta 💕
+###### Data Science | AI | Building Solutions
+#### 👋 Hello World!
+I am Dwaipayan Datta from West Bengal, India. I am currently an Engineering student pursuing a B. Tech in Computer Science and Engineering from Kalyani Government Engineering College and a B.S. in Data Science and Its Applications from Indian Institute of Technology, Madras.
 
-<h1>👋 Hello! I'm Dwaipayan Datta</h1>
+- 🔭 Currently working on Data Science projects, Robotics and AI systems.
+- 🌱 I am eager to learn, collaborate and contribute any way possible!
 
-<h3>Data Science&nbsp;|&nbsp;AI&nbsp;|&nbsp;Building Solutions</h3>
-
-<div align="center">
-  
-<a href="mailto:dwaidatta@gmail.com">📧 Email</a>&nbsp;|&nbsp;<a href="https://dwaidatta.notion.site/dwaidatta-Dwaipayan-Datta-120663ae8a9380c3b054faebf908dbcf">🌐 Website</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/dwaidatta">🔗 LinkedIn</a>
-
-</div>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dwaidatta&show_icons=true&hide_border=true&theme=default" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dwaidatta&theme=default" width="48%" />
-
-</div>
-
----
-
-<p align="center">
-  <sub>Made with ❤️ | Last updated: 30/05/2025 <!-- date --></sub>
-</p>
+#### 📫 Reach me:
+- [dwaidatta@gmail.com](mailto:dwaidatta@gmail.com)
+- [linkedin.com/in/dwaidatta](https://www.linkedin.com/in/dwaidatta/)
+- [kaggle.com/dwaidatta](https://www.kaggle.com/dwaidatta)
+- [Website](https://dwaidatta.notion.site/dwaidatta-Dwaipayan-Datta-120663ae8a9380c3b054faebf908dbcf)
