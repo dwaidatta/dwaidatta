@@ -13,7 +13,7 @@ I am Dwaipayan Datta from West Bengal, India. I am currently an <em>Engineering 
 - 🔭 Currently working on Data Science projects, Robotics and AI systems.
 - 🌱 I am eager to learn, collaborate and contribute any way possible!
 
-##### 👉 I push updates [here](https://www.linkedin.com/in/dwaidatta/).
+### 👉 I push updates [here](https://www.linkedin.com/in/dwaidatta/).
 
 ### 📫 Reach me:
 
