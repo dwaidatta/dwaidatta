@@ -1,19 +1,23 @@
-# Dwaipayan Datta 📀
+# Dwaipayan Datta 📧
 
 ###### Data Science | AI | Building Solutions
 
 <table>
 <tr>
-<td>
+<td align="justify" valign="center">
 
 ### 👋 Hello World!
 
 I am Dwaipayan Datta from West Bengal, India. I am currently an <em>Engineering Student</em> pursuing <strong>B. Tech in Computer Science and Engineering from Kalyani Government Engineering College</strong> and <strong>B.S. in Data Science and Its Applications from Indian Institute of Technology, Madras</strong>.
 
+### 🧭 Status:
+
 - 🔭 Currently working on Data Science projects, Robotics and AI systems.
 - 🌱 I am eager to learn, collaborate and contribute any way possible!
 
-### 👉 I push updates [here](https://www.linkedin.com/in/dwaidatta/).
+#### 👉 I push updates [here](https://www.linkedin.com/in/dwaidatta/).
+
+<hr>
 
 ### 📫 Reach me:
 
