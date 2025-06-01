@@ -10,16 +10,18 @@
 
 I am Dwaipayan Datta from West Bengal, India. I am currently an <em>Engineering Student</em> pursuing <strong>B. Tech in Computer Science and Engineering from Kalyani Government Engineering College</strong> and <strong>B.S. in Data Science and Its Applications from Indian Institute of Technology, Madras</strong>.
 
-### 🧭 Status:
+### 🧭 Status
 
 - 🔭 Currently working on Data Science projects, Robotics and AI systems.
 - 🌱 I am eager to learn, collaborate and contribute any way possible!
+
+#### 📝 Check out My CV [here](https://drive.google.com/file/d/1QGpaf2sS6c6hA46N5JBgWCLAZIDVfjRq/view?usp=sharing).
 
 #### 👉 I push updates [here](https://www.linkedin.com/in/dwaidatta/).
 
 <hr>
 
-### 📫 Reach me:
+### 📫 Reach me
 
 - [dwaidatta@gmail.com](mailto:dwaidatta@gmail.com)
 - [linkedin.com/in/dwaidatta](https://www.linkedin.com/in/dwaidatta/)
@@ -31,6 +33,8 @@ I am Dwaipayan Datta from West Bengal, India. I am currently an <em>Engineering 
 
 </td>
 <td align="center" valign="center" width="350">
+
+### 📈 GitHub Stats
 
 ![Dwaipayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dwaidatta&show_icons=true&theme=light&hide_title=true&hide_rank=true&card_width=350)
 
