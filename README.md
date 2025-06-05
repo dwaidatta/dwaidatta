@@ -62,9 +62,6 @@ Currently an <em>Engineering Student</em> pursuing <strong>B. Tech in Computer S
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dwaidatta&theme=default&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dwaidatta&theme=github-light&hide_border=true" width="100%" alt="Contribution Graph"/>
-
 </td>
 </tr>
 </table>
